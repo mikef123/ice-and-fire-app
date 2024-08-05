@@ -6,7 +6,7 @@ First, run the command:
 ```bash
 npm install
 ```
-to installa all the project dependencies.
+to install all the dependencies of the project.
 
 Then, run the development server:
 
